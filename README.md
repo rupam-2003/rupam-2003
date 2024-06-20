@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupam-2003&show_icons=true&locale=en&layout=compact" alt="rupam-2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupam-2003&show_icons=true&locale=en" alt="rupam-2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupam-2003&" alt="rupam-2003" /></p>
+
 
